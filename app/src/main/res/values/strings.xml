@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScreenBrightness</string>
+    <string name="light">
+        LIGHT_NO_MOON: 0.001
+        LIGHT_FULL_MOON: 0.25
+        LIGHT_CLOUDY: 100
+        LIGHT_SUNRISE: 400
+        LIGHT_OVERCAST: 10000
+        LIGHT_SHADE: 20000
+        LIGHT_SUNLIGHT: 110000
+        LIGHT_SUNLIGHT_MAX: 120000</string>
+</resources>
